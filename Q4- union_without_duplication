@@ -1,8 +1,7 @@
-//Q3. Union of two array without duplication
+//Q4. Union of two array without duplication
 
-#include <iostream>
-#include <vector>
-
+#include<iostream>
+#include<vector>
 using namespace std;
 
 int main() {
